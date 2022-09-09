@@ -12,8 +12,7 @@
     <link href="img/favicon.ico" rel="icon">
 
     <!-- Google Font -->
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
-        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
     <!-- CSS Libraries -->
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
@@ -31,94 +30,10 @@
 
 <body>
     <div class="wrapper">
-        <!-- Top Bar Start -->
-        <div class="top-bar">
-            <div class="container-fluid">
-                <div class="row align-items-center">
-                    <div class="col-lg-4 col-md-12">
-                        <div class="logo">
-                            <a href="index.html">
-                                <h1>ICB sarl</h1>
-                                <!-- <img src="img/logo.jpg" alt="Logo"> -->
-                            </a>
-                        </div>
-                    </div>
-                    <div class="col-lg-8 col-md-7 d-none d-lg-block">
-                        <div class="row">
-                            <div class="col-4">
-                                <div class="top-bar-item">
-                                    <div class="top-bar-icon">
-                                        <i class="flaticon-calendar"></i>
-                                    </div>
-                                    <div class="top-bar-text">
-                                        <h3>Jours Ouvrables</h3>
-                                        <p>Lun - Ven, 8:00 - 9:00</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div class="top-bar-item">
-                                    <div class="top-bar-icon">
-                                        <i class="flaticon-call"></i>
-                                    </div>
-                                    <div class="top-bar-text">
-                                        <h3>Appellez nous</h3>
-                                        <p>+226 76 76 76 76</p>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-4">
-                                <div class="top-bar-item">
-                                    <div class="top-bar-icon">
-                                        <i class="flaticon-send-mail"></i>
-                                    </div>
-                                    <div class="top-bar-text">
-                                        <h3>Notre adresse email</h3>
-                                        <p>info@example.com</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Top Bar End -->
 
-        <!-- Nav Bar Start -->
-        <div class="nav-bar">
-            <div class="container-fluid">
-                <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-                    <a href="#" class="navbar-brand">MENU</a>
-                    <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
-                    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                        <div class="navbar-nav mr-auto">
-                            <a href="index.html" class="nav-item nav-link active">Accueil</a>
-                            <a href="#" class="nav-item nav-link">Notre Entreprise</a>
-                            <a href="#" class="nav-item nav-link">Nos Services</a>
-                            <!-- <a href="team.html" class="nav-item nav-link">Team</a> -->
-                            <a href="#"  class="nav-item nav-link">Nos réalisations</a>
-                            <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Recrutement ICB</a>
-                                <div class="dropdown-menu">
-                                    <a href="#" class="dropdown-item">Stage</a>
-                                    <a href="#"  class="dropdown-item">Contractuel</a>
-                                </div>
-                            </div>
-                            <!-- <a href="contact.html" class="nav-item nav-link">Parlez à un Expert</a> -->
-                        </div>
-                        <div class="ml-auto">
-                            <a class="btn" href="#" >Parlez à un Expert</a>
-                        </div>
-                    </div>
-                </nav>
-            </div>
-        </div>
-        <!-- Nav Bar End -->
-
+        <?php
+        include("widgets/header.php");
+        ?>
 
         <!-- Carousel Start -->
         <div id="carousel" class="carousel slide" data-ride="carousel">
@@ -133,7 +48,7 @@
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">Nous sommes les Professionnels</p>
                         <h1 class="animated fadeInLeft">Qu'il vous faut Pour votre Projet</h1>
-                        <a class="btn animated fadeInUp" href="#" >Parlez à un Expert</a>
+                        <a class="btn animated fadeInUp" href="#">Parlez à un Expert</a>
                     </div>
                 </div>
 
@@ -142,16 +57,16 @@
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">Des Ingenieurs Qualifiés</p>
                         <h1 class="animated fadeInLeft">La Meilleure Expertise sur le marché</h1>
-                        <a class="btn animated fadeInUp" href="#" >Parlez à un Expert</a>
+                        <a class="btn animated fadeInUp" href="#">Parlez à un Expert</a>
                     </div>
                 </div>
 
                 <div class="carousel-item">
                     <img src="img/carousel-3.jpg" alt="Carousel Image">
                     <div class="carousel-caption">
-                        <p class="animated fadeInRight">Nous avons l'expérience</p>
+                        <p class="animated fadeInRight">Depuis 1996 nous sommes avec vous</p>
                         <h1 class="animated fadeInLeft">26 Ans D'Expérience</h1>
-                        <a class="btn animated fadeInUp" href="#" >Parlez à un Expert</a>
+                        <a class="btn animated fadeInUp" href="#">Parlez à un Expert</a>
                     </div>
                 </div>
             </div>
@@ -436,15 +351,13 @@
         <!-- Video Start -->
         <div class="video wow fadeIn" data-wow-delay="0.1s">
             <div class="container">
-                <button type="button" class="btn-play" data-toggle="modal"
-                    data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
+                <button type="button" class="btn-play" data-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-target="#videoModal">
                     <span></span>
                 </button>
             </div>
         </div>
 
-        <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-            aria-hidden="true">
+        <div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
             <div class="modal-dialog" role="document">
                 <div class="modal-content">
                     <div class="modal-body">
@@ -453,8 +366,7 @@
                         </button>
                         <!-- 16:9 aspect ratio -->
                         <div class="embed-responsive embed-responsive-16by9">
-                            <iframe class="embed-responsive-item" src="" id="video" allowscriptaccess="always"
-                                allow="autoplay"></iframe>
+                            <iframe class="embed-responsive-item" src="" id="video" allowscriptaccess="always" allow="autoplay"></iframe>
                         </div>
                     </div>
                 </div>
@@ -865,72 +777,9 @@
             <!-- Blog End -->
 
 
-            <!-- Footer Start -->
-            <div class="footer wow fadeIn" data-wow-delay="0.3s">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-3">
-                            <div class="footer-contact">
-                                <h2>Informations</h2>
-                                <p><i class="fa fa-map-marker-alt"></i>Ouagadougou Centre-ville </p>
-                                <p><i class="fa fa-phone-alt"></i>+226 76 76 76 76</p>
-                                <p><i class="fa fa-envelope"></i>info@example.com</p>
-                                <div class="footer-social">
-                                    <a href=""><i class="fab fa-twitter"></i></a>
-                                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a href=""><i class="fab fa-youtube"></i></a>
-                                    <a href=""><i class="fab fa-instagram"></i></a>
-                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="footer-link">
-                                <h2>Nos Services</h2>
-                                <a href="">Industrie</a>
-                                <a href="">Hydraulique</a>
-                                <a href="">La Formation technique</a>
-                                <a href="">La sécurité incendie</a>
-                                <a href="">L’Ingénierie-conseil</a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="footer-link">
-                                <h2>Liens de Pages</h2>
-                                <a href="">Notre Entreprise</a>
-                                <a href="">Nos Services</a>
-                                <a href="">Nos Réalisations</a>
-                                <a href="">Recrutement ICB</a>
-
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="newsletter">
-                                <h2>Newsletter</h2>
-                                <p>
-                                    Envoyer nous votre addresse email pour rester informer d'éventuel recrutement en cours.
-                                </p>
-                                <div class="form">
-                                    <input class="form-control" placeholder="Email here">
-                                    <button class="btn">Envoyer</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-              
-                <div class="container copyright">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <p>&copy; <a href="#">ICB sarl</a>, Tout droits réservés.</p>
-                        </div>
-                        <div class="col-md-6">
-                            <p>Designed By <a href="https://haalemtik.herokuapp.com/" target="_blank">Haalem tic</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Footer End -->
+            <?php
+            include("widgets/footer.php");
+            ?>
 
             <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
         </div>
