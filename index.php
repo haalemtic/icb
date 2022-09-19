@@ -48,7 +48,7 @@
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">Nous sommes les Professionnels</p>
                         <h1 class="animated fadeInLeft">Qu'il vous faut Pour votre Projet</h1>
-                        <a class="btn animated fadeInUp" href="#">Parlez à un Expert</a>
+                        <a class="btn animated fadeInUp" href="contact.php">Parlez à un Expert</a>
                     </div>
                 </div>
 
@@ -57,7 +57,7 @@
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">Des Ingenieurs Qualifiés</p>
                         <h1 class="animated fadeInLeft">La Meilleure Expertise sur le marché</h1>
-                        <a class="btn animated fadeInUp" href="#">Parlez à un Expert</a>
+                        <a class="btn animated fadeInUp" href="contact.php">Parlez à un Expert</a>
                     </div>
                 </div>
 
@@ -66,18 +66,18 @@
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">Depuis 1996 nous sommes avec vous</p>
                         <h1 class="animated fadeInLeft">26 Ans D'Expérience</h1>
-                        <a class="btn animated fadeInUp" href="#">Parlez à un Expert</a>
+                        <a class="btn animated fadeInUp" href="contact.php">Parlez à un Expert</a>
                     </div>
                 </div>
             </div>
 
             <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
+                <span class="sr-only">Retour</span>
             </a>
             <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
+                <span class="sr-only">Suivant</span>
             </a>
         </div>
         <!-- Carousel End -->
@@ -94,7 +94,7 @@
                             </div>
                             <div class="feature-text">
                                 <h3>Technicien Expert</h3>
-                                <p>Ceci est du faux texte à remplir Ceci est du faux texte à remplir.</p>
+                                <p>Des Techniciens et des ingénieurs Qualifiés pour vos projets.</p>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                             </div>
                             <div class="feature-text">
                                 <h3>Qualité de Travail</h3>
-                                <p>Ceci est du faux texte à remplir Ceci est du faux texte à remplir.</p>
+                                <p>Tous est mis en oeuvre pour assurer une Qualité de service excellente.</p>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                             </div>
                             <div class="feature-text">
                                 <h3>24/7 D'assistance</h3>
-                                <p>Ceci est du faux texte à remplir Ceci est du faux texte à remplir.</p>
+                                <p>Toujours disponible 24h/24 7j/7 pour vous assister.</p>
                             </div>
                         </div>
                     </div>
@@ -142,18 +142,18 @@
                         </div>
                         <div class="about-text">
                             <p>
-                                Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte
-                                à remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du
-                                faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir
-                                Ceci est du faux texte à remplir Ceci est du faux texte à remplir.
+                                La Société d’Ingénierie et de Contrôle du Burkina (I.C.B) est une Société à
+                                Responsabilité
+                                Limitée (SARL) de droit burkinabé au capital de 2 000 000 FCFA, créée en <strong>1996</strong> et dont le
+                                siège social est à Ouagadougou, en plein centre-ville. I.C.B Sarl est un <strong>cabinet d’ingénierie</strong> avec quatre principaux domaines d’intervention.
                             </p>
                             <p>
-                                Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte
-                                à remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du
-                                faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir
-                                Ceci est du faux texte à remplir Ceci est du faux texte à remplir.
+                                La société I.C.B est aujourd’hui connue sur le plan national et sous régional pour son
+                                expertise
+                                très éprouvée. I.C.B intervient dans les secteurs suivants :
+                                <strong>L’Industrie</strong>, <strong>La sécurité incendie</strong>,<strong>Le Bâtiment et les Travaux publics</strong>,<strong>L’Hydraulique</strong>,<strong>Les biens de consommations</strong>,<strong>La formation technique</strong>
                             </p>
-                            <a class="btn" href="">Lire tout</a>
+                            <a class="btn" href="about.php">Lire tout</a>
                         </div>
                     </div>
                 </div>
@@ -162,190 +162,16 @@
         <!-- About End -->
 
 
-        <!-- Fact Start -->
-        <div class="fact">
-            <div class="container-fluid">
-                <div class="row counters">
-                    <div class="col-md-6 fact-left wow slideInLeft">
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="fact-icon">
-                                    <i class="flaticon-worker"></i>
-                                </div>
-                                <div class="fact-text">
-                                    <h2 data-toggle="counter-up">109</h2>
-                                    <p>Technicien Qualifiés</p>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="fact-icon">
-                                    <i class="flaticon-building"></i>
-                                </div>
-                                <div class="fact-text">
-                                    <h2 data-toggle="counter-up">485</h2>
-                                    <p>Clienst Satisfaits</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6 fact-right wow slideInRight">
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="fact-icon">
-                                    <i class="flaticon-address"></i>
-                                </div>
-                                <div class="fact-text">
-                                    <h2 data-toggle="counter-up">789</h2>
-                                    <p>Projets Terminés</p>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="fact-icon">
-                                    <i class="flaticon-crane"></i>
-                                </div>
-                                <div class="fact-text">
-                                    <h2 data-toggle="counter-up">890</h2>
-                                    <p>Projets en Cours</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Fact End -->
+        <?php
+
+        include("widgets/counters.php");
+        ?>
 
 
-        <!-- Service Start -->
-        <div class="service">
-            <div class="container">
-                <div class="section-header text-center">
-                    <p>Nos Services</p>
-                    <h2>Nous Fournissons ses Services</h2>
-                </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="service-item">
-                            <div class="service-img">
-                                <img src="img/service-1.jpg" alt="Image">
-                                <div class="service-overlay">
-                                    <p>
-                                        Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du
-                                        faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte à
-                                        remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci
-                                        est du faux texte à remplir.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="service-text">
-                                <h3>Le Bâtiment et les Travaux publics</h3>
-                                <a class="btn" href="img/service-1.jpg" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                        <div class="service-item">
-                            <div class="service-img">
-                                <img src="img/service-2.jpg" alt="Image">
-                                <div class="service-overlay">
-                                    <p>
-                                        Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du
-                                        faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte à
-                                        remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci
-                                        est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux
-                                        texte à remplir.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="service-text">
-                                <h3>Hydraulique</h3>
-                                <a class="btn" href="img/service-2.jpg" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="service-item">
-                            <div class="service-img">
-                                <img src="img/service-3.jpg" alt="Image">
-                                <div class="service-overlay">
-                                    <p>
-                                        Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du
-                                        faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte à
-                                        remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci
-                                        est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux
-                                        texte à remplir.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="service-text">
-                                <h3>Industrie</h3>
-                                <a class="btn" href="img/service-3.jpg" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
-                        <div class="service-item">
-                            <div class="service-img">
-                                <img src="img/service-4.jpg" alt="Image">
-                                <div class="service-overlay">
-                                    <p>
-                                        Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du
-                                        faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte à
-                                        remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci
-                                        est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux
-                                        texte à remplir.
-                                </div>
-                            </div>
-                            <div class="service-text">
-                                <h3>La formation technique</h3>
-                                <a class="btn" href="img/service-4.jpg" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="service-item">
-                            <div class="service-img">
-                                <img src="img/service-5.jpg" alt="Image">
-                                <div class="service-overlay">
-                                    <p>
-                                        Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du
-                                        faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte à
-                                        remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci
-                                        est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux
-                                        texte à remplir.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="service-text">
-                                <h3>le conseil en maintenance et sécurité incendie</h3>
-                                <a class="btn" href="img/service-5.jpg" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
-                        <div class="service-item">
-                            <div class="service-img">
-                                <img src="img/service-6.jpg" alt="Image">
-                                <div class="service-overlay">
-                                    <p>
-                                        Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du
-                                        faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux texte à
-                                        remplir Ceci est du faux texte à remplir Ceci est du faux texte à remplir Ceci
-                                        est du faux texte à remplir Ceci est du faux texte à remplir Ceci est du faux
-                                        texte à remplir.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="service-text">
-                                <h3>le contrôle technique</h3>
-                                <a class="btn" href="img/service-6.jpg" data-lightbox="service">+</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Service End -->
+    <?php
+    include("widgets/services.php");
+    
+    ?>
 
 
         <!-- Video Start -->
@@ -457,347 +283,158 @@
         <!-- Team End -->
 
 
-        <!-- FAQs Start -->
-        <div class="faqs">
+        <?php
+        include("widgets/faq.php");
+
+        ?>
+
+
+        <!-- Testimonial Start -->
+        <div class="testimonial wow fadeIn" data-wow-delay="0.1s">
             <div class="container">
-                <div class="section-header text-center">
-                    <p>Questions Fréquemment posées</p>
-                    <h2>Trouvez peut-être votre reponse</h2>
+                <div class="row">
+                    <div class="col-12">
+                        <div class="testimonial-slider-nav">
+                            <div class="slider-nav"><img src="img/testimonial-1.jpg" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/testimonial-2.jpg" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/testimonial-3.jpg" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/testimonial-4.jpg" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/testimonial-1.jpg" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/testimonial-2.jpg" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/testimonial-3.jpg" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/testimonial-4.jpg" alt="Testimonial"></div>
+                        </div>
+                    </div>
                 </div>
                 <div class="row">
-                    <div class="col-md-6">
-                        <div id="accordion-1">
-                            <div class="card wow fadeInLeft" data-wow-delay="0.1s">
-                                <div class="card-header">
-                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseOne">
-                                        question posée question posée ?
-                                    </a>
-                                </div>
-                                <div id="collapseOne" class="collapse" data-parent="#accordion-1">
-                                    <div class="card-body">
-                                        Reponse à la question posée Reponse à la question posée Reponse à la question
-                                        posée Reponse à la question posée Reponse à la question posée.
-                                    </div>
-                                </div>
+                    <div class="col-12">
+                        <div class="testimonial-slider">
+                            <div class="slider-item">
+                                <h3>BCEAO</h3>
+                       
                             </div>
-                            <div class="card wow fadeInLeft" data-wow-delay="0.2s">
-                                <div class="card-header">
-                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseTwo">
-                                        question posée question posée ?
-                                    </a>
-                                </div>
-                                <div id="collapseTwo" class="collapse" data-parent="#accordion-1">
-                                    <div class="card-body">
-                                        Reponse à la question posée Reponse à la question posée Reponse à la question
-                                        posée Reponse à la question posée Reponse à la question posée.
-                                    </div>
-                                </div>
+                            <div class="slider-item">
+                                <h3>Vivo Energy</h3>
+                                
+                          
                             </div>
-                            <div class="card wow fadeInLeft" data-wow-delay="0.3s">
-                                <div class="card-header">
-                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseThree">
-                                        question posée question posée ?
-                                    </a>
-                                </div>
-                                <div id="collapseThree" class="collapse" data-parent="#accordion-1">
-                                    <div class="card-body">
-                                        Reponse à la question posée Reponse à la question posée Reponse à la question
-                                        posée Reponse à la question posée Reponse à la question posée.
-                                    </div>
-                                </div>
+                            <div class="slider-item">
+                                <h3>UEMOA</h3>
+                                
+                            
                             </div>
-                            <div class="card wow fadeInLeft" data-wow-delay="0.4s">
-                                <div class="card-header">
-                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseFour">
-                                        question posée question posée ?
-                                    </a>
-                                </div>
-                                <div id="collapseFour" class="collapse" data-parent="#accordion-1">
-                                    <div class="card-body">
-                                        Reponse à la question posée Reponse à la question posée Reponse à la question
-                                        posée Reponse à la question posée Reponse à la question posée.
-                                    </div>
-                                </div>
+                            <div class="slider-item">
+                                <h3>SONABEL</h3>
+                                
+                              
                             </div>
-                            <div class="card wow fadeInLeft" data-wow-delay="0.5s">
-                                <div class="card-header">
-                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseFive">
-                                        question posée question posée ?
-                                    </a>
-                                </div>
-                                <div id="collapseFive" class="collapse" data-parent="#accordion-1">
-                                    <div class="card-body">
-                                        Reponse à la question posée Reponse à la question posée Reponse à la question
-                                        posée Reponse à la question posée Reponse à la question posée.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div id="accordion-2">
-                            <div class="card wow fadeInRight" data-wow-delay="0.1s">
-                                <div class="card-header">
-                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseSix">
-                                        question posée question posée ?
-                                    </a>
-                                </div>
-                                <div id="collapseSix" class="collapse" data-parent="#accordion-2">
-                                    <div class="card-body">
-                                        Reponse à la question posée Reponse à la question posée Reponse à la question
-                                        posée Reponse à la question posée Reponse à la question posée.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card wow fadeInRight" data-wow-delay="0.2s">
-                                <div class="card-header">
-                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseSeven">
-                                        question posée question posée ?
-                                    </a>
-                                </div>
-                                <div id="collapseSeven" class="collapse" data-parent="#accordion-2">
-                                    <div class="card-body">
-                                        Reponse à la question posée Reponse à la question posée Reponse à la question
-                                        posée Reponse à la question posée Reponse à la question posée.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card wow fadeInRight" data-wow-delay="0.3s">
-                                <div class="card-header">
-                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseEight">
-                                        question posée question posée ?
-                                    </a>
-                                </div>
-                                <div id="collapseEight" class="collapse" data-parent="#accordion-2">
-                                    <div class="card-body">
-                                        Reponse à la question posée Reponse à la question posée Reponse à la question
-                                        posée Reponse à la question posée Reponse à la question posée.
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="card wow fadeInRight" data-wow-delay="0.4s">
-                                <div class="card-header">
-                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseNine">
-                                        question posée question posée ?
-                                    </a>
-                                </div>
-                                <div id="collapseNine" class="collapse" data-parent="#accordion-2">
-                                    <div class="card-body">
-                                        Reponse à la question posée Reponse à la question posée Reponse à la question
-                                        posée Reponse à la question posée Reponse à la question posée.
-                                    </div>
-                                </div>
-                                <div class="card wow fadeInRight" data-wow-delay="0.5s">
-                                    <div class="card-header">
-                                        <a class="card-link collapsed" data-toggle="collapse" href="#collapseTen">
-                                            question posée question posée ?
-                                        </a>
-                                    </div>
-                                    <div id="collapseTen" class="collapse" data-parent="#accordion-2">
-                                        <div class="card-body">
-                                            Reponse à la question posée Reponse à la question posée Reponse à la
-                                            question posée Reponse à la question posée Reponse à la question posée.
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
             </div>
-            <!-- FAQs End -->
-
-
-            <!-- Testimonial Start -->
-            <div class="testimonial wow fadeIn" data-wow-delay="0.1s">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="testimonial-slider-nav">
-                                <div class="slider-nav"><img src="img/testimonial-1.jpg" alt="Testimonial"></div>
-                                <div class="slider-nav"><img src="img/testimonial-2.jpg" alt="Testimonial"></div>
-                                <div class="slider-nav"><img src="img/testimonial-3.jpg" alt="Testimonial"></div>
-                                <div class="slider-nav"><img src="img/testimonial-4.jpg" alt="Testimonial"></div>
-                                <div class="slider-nav"><img src="img/testimonial-1.jpg" alt="Testimonial"></div>
-                                <div class="slider-nav"><img src="img/testimonial-2.jpg" alt="Testimonial"></div>
-                                <div class="slider-nav"><img src="img/testimonial-3.jpg" alt="Testimonial"></div>
-                                <div class="slider-nav"><img src="img/testimonial-4.jpg" alt="Testimonial"></div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-12">
-                            <div class="testimonial-slider">
-                                <div class="slider-item">
-                                    <h3>Nom du client</h3>
-                                    <h4>profession</h4>
-                                    <p>Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services Temoignage du client sur la qualité de nos services
-                                        Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services</p>
-                                </div>
-                                <div class="slider-item">
-                                    <h3>Nom du client</h3>
-                                    <h4>profession</h4>
-                                    <p>Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services Temoignage du client sur la qualité de nos services
-                                        Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services</p>
-                                </div>
-                                <div class="slider-item">
-                                    <h3>Nom du client</h3>
-                                    <h4>profession</h4>
-                                    <p>Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services Temoignage du client sur la qualité de nos services
-                                        Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services</p>
-                                </div>
-                                <div class="slider-item">
-                                    <h3>Nom du client</h3>
-                                    <h4>profession</h4>
-                                    <p>Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services Temoignage du client sur la qualité de nos services
-                                        Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services</p>
-                                </div>
-                                <div class="slider-item">
-                                    <h3>Nom du client</h3>
-                                    <h4>profession</h4>
-                                    <p>Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services Temoignage du client sur la qualité de nos services
-                                        Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services</p>
-                                </div>
-                                <div class="slider-item">
-                                    <h3>Nom du client</h3>
-                                    <h4>profession</h4>
-                                    <p>Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services Temoignage du client sur la qualité de nos services
-                                        Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services</p>
-                                </div>
-                                <div class="slider-item">
-                                    <h3>Nom du client</h3>
-                                    <h4>profession</h4>
-                                    <p>Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services Temoignage du client sur la qualité de nos services
-                                        Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services</p>
-                                </div>
-                                <div class="slider-item">
-                                    <h3>Nom du client</h3>
-                                    <h4>profession</h4>
-                                    <p>Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services Temoignage du client sur la qualité de nos services
-                                        Temoignage du client sur la qualité de nos services Temoignage du client sur la
-                                        qualité de nos services</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Testimonial End -->
-
-
-            <!-- Blog Start -->
-            <div class="blog">
-                <div class="container">
-                    <div class="section-header text-center">
-                        <p>Récents posts</p>
-                        <h2>Récents posts de Recrutement ICB</h2>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="blog-item">
-                                <div class="blog-img">
-                                    <img src="img/blog-1.jpg" alt="Image">
-                                </div>
-                                <div class="blog-title">
-                                    <h3>Intitulé du poste</h3>
-                                    <a class="btn" href="">+</a>
-                                </div>
-                                <div class="blog-meta">
-                                    <p>Par<a href="">Nom du responsable</a></p>
-                                    <p>Du<a href="">Service RH</a></p>
-                                </div>
-                                <div class="blog-text">
-                                    <p>
-                                        Description du poste à pourvoir ou du stage à pourvoir Description du poste à
-                                        pourvoir ou du stage à pourvoir .
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 wow fadeInUp">
-                            <div class="blog-item">
-                                <div class="blog-img">
-                                    <img src="img/blog-2.jpg" alt="Image">
-                                </div>
-                                <div class="blog-title">
-                                    <h3>Intitulé du poste</h3>
-                                    <a class="btn" href="">+</a>
-                                </div>
-                                <div class="blog-meta">
-                                    <p>Par<a href="">Nom du responsable</a></p>
-                                    <p>Du<a href="">Service RH</a></p>
-                                </div>
-                                <div class="blog-text">
-                                    <p>
-                                        Description du poste à pourvoir ou du stage à pourvoir Description du poste à
-                                        pourvoir ou du stage à pourvoir .
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="blog-item">
-                                <div class="blog-img">
-                                    <img src="img/blog-3.jpg" alt="Image">
-                                </div>
-                                <div class="blog-title">
-                                    <h3>Intitulé du poste</h3>
-                                    <a class="btn" href="">+</a>
-                                </div>
-                                <div class="blog-meta">
-                                    <p>Par<a href="">Nom du responsable</a></p>
-                                    <p>Du<a href="">Service RH</a></p>
-                                </div>
-                                <div class="blog-text">
-                                    <p>
-                                        Description du poste à pourvoir ou du stage à pourvoir Description du poste à
-                                        pourvoir ou du stage à pourvoir .
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Blog End -->
-
-
-            <?php
-            include("widgets/footer.php");
-            ?>
-
-            <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
         </div>
+        <!-- Testimonial End -->
 
-        <!-- JavaScript Libraries -->
-        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-        <script src="lib/easing/easing.min.js"></script>
-        <script src="lib/wow/wow.min.js"></script>
-        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-        <script src="lib/isotope/isotope.pkgd.min.js"></script>
-        <script src="lib/lightbox/js/lightbox.min.js"></script>
-        <script src="lib/waypoints/waypoints.min.js"></script>
-        <script src="lib/counterup/counterup.min.js"></script>
-        <script src="lib/slick/slick.min.js"></script>
 
-        <!-- Template Javascript -->
-        <script src="js/main.js"></script>
+        <!-- Blog Start -->
+        <div class="blog">
+            <div class="container">
+                <div class="section-header text-center">
+                    <p>Récents posts</p>
+                    <h2>Récents posts de Recrutement ICB</h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <img src="img/blog-1.jpg" alt="Image">
+                            </div>
+                            <div class="blog-title">
+                                <h3>Intitulé du poste</h3>
+                                <a class="btn" href="">+</a>
+                            </div>
+                            <div class="blog-meta">
+                                <p>Par<a href="">Nom du responsable</a></p>
+                                <p>Du<a href="">Service RH</a></p>
+                            </div>
+                            <div class="blog-text">
+                                <p>
+                                    Description du poste à pourvoir ou du stage à pourvoir Description du poste à
+                                    pourvoir ou du stage à pourvoir .
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <img src="img/blog-2.jpg" alt="Image">
+                            </div>
+                            <div class="blog-title">
+                                <h3>Intitulé du poste</h3>
+                                <a class="btn" href="">+</a>
+                            </div>
+                            <div class="blog-meta">
+                                <p>Par<a href="">Nom du responsable</a></p>
+                                <p>Du<a href="">Service RH</a></p>
+                            </div>
+                            <div class="blog-text">
+                                <p>
+                                    Description du poste à pourvoir ou du stage à pourvoir Description du poste à
+                                    pourvoir ou du stage à pourvoir .
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
+                        <div class="blog-item">
+                            <div class="blog-img">
+                                <img src="img/blog-3.jpg" alt="Image">
+                            </div>
+                            <div class="blog-title">
+                                <h3>Intitulé du poste</h3>
+                                <a class="btn" href="">+</a>
+                            </div>
+                            <div class="blog-meta">
+                                <p>Par<a href="">Nom du responsable</a></p>
+                                <p>Du<a href="">Service RH</a></p>
+                            </div>
+                            <div class="blog-text">
+                                <p>
+                                    Description du poste à pourvoir ou du stage à pourvoir Description du poste à
+                                    pourvoir ou du stage à pourvoir .
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Blog End -->
+
+
+        <?php
+        include("widgets/footer.php");
+        ?>
+
+        <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+    </div>
+
+    <!-- JavaScript Libraries -->
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/wow/wow.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="lib/lightbox/js/lightbox.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/counterup/counterup.min.js"></script>
+    <script src="lib/slick/slick.min.js"></script>
+
+    <!-- Template Javascript -->
+    <script src="js/main.js"></script>
 </body>
 
 </html>

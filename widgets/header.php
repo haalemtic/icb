@@ -4,7 +4,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4 col-md-12">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <h1>ICB sarl</h1>
                                 <!-- <img src="img/logo.jpg" alt="Logo"> -->
                             </a>
@@ -19,7 +19,7 @@
                                     </div>
                                     <div class="top-bar-text">
                                         <h3>Jours Ouvrables</h3>
-                                        <p>Lun - Ven, 8:00 - 9:00</p>
+                                        <p>Lun - Ven, 8:00 - 18:00</p>
                                     </div>
                                 </div>
                             </div>
@@ -63,22 +63,22 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.html" class="nav-item nav-link active">Accueil</a>
-                            <a href="#" class="nav-item nav-link">Notre Entreprise</a>
-                            <a href="#" class="nav-item nav-link">Nos Services</a>
+                            <a href="index.php" class="nav-item nav-link">Accueil</a>
+                            <a href="about.php" class="nav-item nav-link">Notre Entreprise</a>
+                            <a href="service.php" class="nav-item nav-link">Nos Services</a>
                             <!-- <a href="team.html" class="nav-item nav-link">Team</a> -->
-                            <a href="#"  class="nav-item nav-link">Nos réalisations</a>
+                            <a href="portfolio.php"  class="nav-item nav-link">Nos réalisations</a>
                             <div class="nav-item dropdown">
                                 <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Recrutement ICB</a>
                                 <div class="dropdown-menu">
-                                    <a href="#" class="dropdown-item">Stage</a>
+                                    <a href="blog.php" class="dropdown-item">Stage</a>
                                     <a href="#"  class="dropdown-item">Contractuel</a>
                                 </div>
                             </div>
                             <!-- <a href="contact.html" class="nav-item nav-link">Parlez à un Expert</a> -->
                         </div>
                         <div class="ml-auto">
-                            <a class="btn" href="#" >Parlez à un Expert</a>
+                            <a class="btn" href="contact.php" >Parlez à un Expert</a>
                         </div>
                     </div>
                 </nav>

@@ -11,8 +11,8 @@ $message = strip_tags(htmlspecialchars($_POST['message']));
 
 $to = "info@example.com"; // Change this email to your //
 $subject = "$m_subject:  $name";
-$body = "You have received a new message from your website contact form.\n\n"."Here are the details:\n\nName: $name\n\n\nEmail: $email\n\nSubject: $m_subject\n\nMessage: $message";
-$header = "From: $email";
+$body = "Vous avez reçu un nouveau message de votre site ICB.\n\n"."Voici les détails:\n\nNom: $name\n\n\nAdresse Email: $email\n\nSujet: $m_subject\n\nMessage: $message";
+$header = "De: $email";
 $header .= "Reply-To: $email";	
 
 if(!mail($to, $subject, $body, $header))
