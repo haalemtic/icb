@@ -30,10 +30,10 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="footer-link">
                                 <h2>Liens de Pages</h2>
-                                <a href="">Notre Entreprise</a>
-                                <a href="">Nos Services</a>
-                                <a href="">Nos Réalisations</a>
-                                <a href="">Recrutement ICB</a>
+                                <a href="about.php">Notre Entreprise</a>
+                                <a href="service.php">Nos Services</a>
+                                <a href="portfolio.php">Nos Réalisations</a>
+                                <a href="blog.php">Recrutement ICB</a>
 
                             </div>
                         </div>

@@ -29,105 +29,21 @@
 
     <body>
         <div class="wrapper">
-            <!-- Top Bar Start -->
-            <div class="top-bar">
-                <div class="container-fluid">
-                    <div class="row align-items-center">
-                        <div class="col-lg-4 col-md-12">
-                            <div class="logo">
-                                <a href="index.html">
-                                    <h1>Builderz</h1>
-                                    <!-- <img src="img/logo.jpg" alt="Logo"> -->
-                                </a>
-                            </div>
-                        </div>
-                        <div class="col-lg-8 col-md-7 d-none d-lg-block">
-                            <div class="row">
-                                <div class="col-4">
-                                    <div class="top-bar-item">
-                                        <div class="top-bar-icon">
-                                            <i class="flaticon-calendar"></i>
-                                        </div>
-                                        <div class="top-bar-text">
-                                            <h3>Opening Hour</h3>
-                                            <p>Mon - Fri, 8:00 - 9:00</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-4">
-                                    <div class="top-bar-item">
-                                        <div class="top-bar-icon">
-                                            <i class="flaticon-call"></i>
-                                        </div>
-                                        <div class="top-bar-text">
-                                            <h3>Call Us</h3>
-                                            <p>+012 345 6789</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-4">
-                                    <div class="top-bar-item">
-                                        <div class="top-bar-icon">
-                                            <i class="flaticon-send-mail"></i>
-                                        </div>
-                                        <div class="top-bar-text">
-                                            <h3>Email Us</h3>
-                                            <p>info@example.com</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Top Bar End -->
-
-            <!-- Nav Bar Start -->
-            <div class="nav-bar">
-                <div class="container-fluid">
-                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
-                        <a href="#" class="navbar-brand">MENU</a>
-                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                            <span class="navbar-toggler-icon"></span>
-                        </button>
-
-                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                            <div class="navbar-nav mr-auto">
-                                <a href="index.html" class="nav-item nav-link">Home</a>
-                                <a href="about.html" class="nav-item nav-link">About</a>
-                                <a href="service.html" class="nav-item nav-link">Service</a>
-                                <a href="team.html" class="nav-item nav-link">Team</a>
-                                <a href="portfolio.html" class="nav-item nav-link">Project</a>
-                                <div class="nav-item dropdown">
-                                    <a href="#" class="nav-link dropdown-toggle active" data-toggle="dropdown">Pages</a>
-                                    <div class="dropdown-menu">
-                                        <a href="blog.html" class="dropdown-item">Blog Page</a>
-                                        <a href="single.html" class="dropdown-item">Single Page</a>
-                                    </div>
-                                </div>
-                                <a href="contact.html" class="nav-item nav-link">Contact</a>
-                            </div>
-                            <div class="ml-auto">
-                                <a class="btn" href="#">Get A Quote</a>
-                            </div>
-                        </div>
-                    </nav>
-                </div>
-            </div>
-            <!-- Nav Bar End -->
-
+           <?php 
+           
+           include("widgets/header.php");
+           ?>
 
             <!-- Page Header Start -->
             <div class="page-header">
                 <div class="container">
                     <div class="row">
                         <div class="col-12">
-                            <h2>Single Page</h2>
+                            <h2>Intitulé du poste</h2>
                         </div>
                         <div class="col-12">
-                            <a href="">Home</a>
-                            <a href="">Single Page</a>
+                            <a href="">Accueil</a>
+                            <a href="">Intitulé du poste</a>
                         </div>
                     </div>
                 </div>
@@ -170,145 +86,24 @@
                                     Nam sodales scelerisque nunc sed convallis. Vestibulum facilisis porta erat, sit amet pharetra tortor blandit id. Nunc velit tellus, consectetur sed convallis in, tincidunt finibus nulla. Integer vel ex in mauris tincidunt tincidunt nec sed elit. Etiam pretium lectus lectus, sed aliquet erat tristique euismod. Praesent faucibus nisl augue, ac tempus libero pellentesque malesuada. Vivamus iaculis imperdiet laoreet. Aliquam vel felis felis. Proin sed sapien erat. Etiam a quam et metus tempor rutrum. Curabitur in faucibus justo. Etiam imperdiet iaculis urna.
                                 </p>
                             </div>
-                            <div class="single-tags wow fadeInUp">
-                                <a href="">National</a>
-                                <a href="">International</a>
-                                <a href="">Economics</a>
-                                <a href="">Politics</a>
-                                <a href="">Lifestyle</a>
-                                <a href="">Technology</a>
-                                <a href="">Trades</a>
-                            </div>
-                            <div class="single-bio wow fadeInUp">
-                                <div class="single-bio-img">
-                                    <img src="img/user.jpg" />
-                                </div>
-                                <div class="single-bio-text">
-                                    <h3>Author Name</h3>
-                                    <p>
-                                        Lorem ipsum dolor sit amet elit. Integer lorem augue purus mollis sapien, non eros leo in nunc. Donec a nulla vel turpis tempor ac vel justo. In hac platea dictumst.
-                                    </p>
-                                </div>
-                            </div>
-                            <div class="single-related wow fadeInUp">
-                                <h2>Related Post</h2>
-                                <div class="owl-carousel related-slider">
-                                    <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="img/post-1.jpg" />
-                                        </div>
-                                        <div class="post-text">
-                                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                            <div class="post-meta">
-                                                <p>By<a href="">Admin</a></p>
-                                                <p>In<a href="">Design</a></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="img/post-2.jpg" />
-                                        </div>
-                                        <div class="post-text">
-                                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                            <div class="post-meta">
-                                                <p>By<a href="">Admin</a></p>
-                                                <p>In<a href="">Design</a></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="img/post-3.jpg" />
-                                        </div>
-                                        <div class="post-text">
-                                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                            <div class="post-meta">
-                                                <p>By<a href="">Admin</a></p>
-                                                <p>In<a href="">Design</a></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="post-item">
-                                        <div class="post-img">
-                                            <img src="img/post-4.jpg" />
-                                        </div>
-                                        <div class="post-text">
-                                            <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                            <div class="post-meta">
-                                                <p>By<a href="">Admin</a></p>
-                                                <p>In<a href="">Design</a></p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
+                           
+                         
+                             
 
-                            <div class="single-comment wow fadeInUp">
-                                <h2>3 Comments</h2>
-                                <ul class="comment-list">
-                                    <li class="comment-item">
-                                        <div class="comment-body">
-                                            <div class="comment-img">
-                                                <img src="img/user.jpg" />
-                                            </div>
-                                            <div class="comment-text">
-                                                <h3><a href="">Josh Dunn</a></h3>
-                                                <span>01 Jan 2045 at 12:00pm</span>
-                                                <p>
-                                                    Lorem ipsum dolor sit amet elit. Integer lorem augue purus mollis sapien, non eros leo in nunc. Donec a nulla vel turpis tempor ac vel justo. In hac platea dictumst. 
-                                                </p>
-                                                <a class="btn" href="">Reply</a>
-                                            </div>
-                                        </div>
-                                    </li>
-                                    <li class="comment-item">
-                                        <div class="comment-body">
-                                            <div class="comment-img">
-                                                <img src="img/user.jpg" />
-                                            </div>
-                                            <div class="comment-text">
-                                                <h3><a href="">Josh Dunn</a></h3>
-                                                <p><span>01 Jan 2045 at 12:00pm</span></p>
-                                                <p>
-                                                    Lorem ipsum dolor sit amet elit. Integer lorem augue purus mollis sapien, non eros leo in nunc. Donec a nulla vel turpis tempor ac vel justo. In hac platea dictumst. 
-                                                </p>
-                                                <a class="btn" href="">Reply</a>
-                                            </div>
-                                        </div>
-                                        <ul class="comment-child">
-                                            <li class="comment-item">
-                                                <div class="comment-body">
-                                                    <div class="comment-img">
-                                                        <img src="img/user.jpg" />
-                                                    </div>
-                                                    <div class="comment-text">
-                                                        <h3><a href="">Josh Dunn</a></h3>
-                                                        <p><span>01 Jan 2045 at 12:00pm</span></p>
-                                                        <p>
-                                                            Lorem ipsum dolor sit amet elit. Integer lorem augue purus mollis sapien, non eros leo in nunc. Donec a nulla vel turpis tempor ac vel justo. In hac platea dictumst. 
-                                                        </p>
-                                                        <a class="btn" href="">Reply</a>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </div>
+                           
                             <div class="comment-form wow fadeInUp">
-                                <h2>Leave a comment</h2>
+                                <h2>Déposer sa candidature</h2>
                                 <form>
                                     <div class="form-group">
-                                        <label for="name">Name *</label>
+                                        <label for="name">Nom complet *</label>
                                         <input type="text" class="form-control" id="name">
                                     </div>
                                     <div class="form-group">
-                                        <label for="email">Email *</label>
+                                        <label for="email">Adresse email *</label>
                                         <input type="email" class="form-control" id="email">
                                     </div>
                                     <div class="form-group">
-                                        <label for="website">Website</label>
+                                        <label for="website">Objet</label>
                                         <input type="url" class="form-control" id="website">
                                     </div>
 
@@ -317,7 +112,7 @@
                                         <textarea id="message" cols="30" rows="5" class="form-control"></textarea>
                                     </div>
                                     <div class="form-group">
-                                        <input type="submit" value="Post Comment" class="btn">
+                                        <input type="submit" value="Postuler" class="btn">
                                     </div>
                                 </form>
                             </div>
@@ -399,266 +194,8 @@
                                         </div>
                                     </div>
                                 </div>
-
-                                <div class="sidebar-widget wow fadeInUp">
-                                    <div class="image-widget">
-                                        <a href="#"><img src="img/blog-1.jpg" alt="Image"></a>
-                                    </div>
-                                </div>
-
-                                <div class="sidebar-widget wow fadeInUp">
-                                    <div class="tab-post">
-                                        <ul class="nav nav-pills nav-justified">
-                                            <li class="nav-item">
-                                                <a class="nav-link active" data-toggle="pill" href="#featured">Featured</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
-                                            </li>
-                                            <li class="nav-item">
-                                                <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
-                                            </li>
-                                        </ul>
-
-                                        <div class="tab-content">
-                                            <div id="featured" class="container tab-pane active">
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-1.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-2.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-3.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-4.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-5.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div id="popular" class="container tab-pane fade">
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-1.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-2.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-3.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-4.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-5.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div id="latest" class="container tab-pane fade">
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-1.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-2.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-3.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-4.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                                <div class="post-item">
-                                                    <div class="post-img">
-                                                        <img src="img/post-5.jpg" />
-                                                    </div>
-                                                    <div class="post-text">
-                                                        <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                        <div class="post-meta">
-                                                            <p>By<a href="">Admin</a></p>
-                                                            <p>In<a href="">Design</a></p>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="sidebar-widget wow fadeInUp">
-                                    <div class="image-widget">
-                                        <a href="#"><img src="img/blog-2.jpg" alt="Image"></a>
-                                    </div>
-                                </div>
-
-                                <div class="sidebar-widget wow fadeInUp">
-                                    <h2 class="widget-title">Categories</h2>
-                                    <div class="category-widget">
-                                        <ul>
-                                            <li><a href="">National</a><span>(98)</span></li>
-                                            <li><a href="">International</a><span>(87)</span></li>
-                                            <li><a href="">Economics</a><span>(76)</span></li>
-                                            <li><a href="">Politics</a><span>(65)</span></li>
-                                            <li><a href="">Lifestyle</a><span>(54)</span></li>
-                                            <li><a href="">Technology</a><span>(43)</span></li>
-                                            <li><a href="">Trades</a><span>(32)</span></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                                <div class="sidebar-widget wow fadeInUp">
-                                    <div class="image-widget">
-                                        <a href="#"><img src="img/blog-3.jpg" alt="Image"></a>
-                                    </div>
-                                </div>
-
-                                <div class="sidebar-widget wow fadeInUp">
-                                    <h2 class="widget-title">Tags Cloud</h2>
-                                    <div class="tag-widget">
-                                        <a href="">National</a>
-                                        <a href="">International</a>
-                                        <a href="">Economics</a>
-                                        <a href="">Politics</a>
-                                        <a href="">Lifestyle</a>
-                                        <a href="">Technology</a>
-                                        <a href="">Trades</a>
-                                    </div>
-                                </div>
-
-                                <div class="sidebar-widget wow fadeInUp">
-                                    <h2 class="widget-title">Text Widget</h2>
-                                    <div class="text-widget">
-                                        <p>
-                                            Lorem ipsum dolor sit amet elit. Integer lorem augue purus mollis sapien, non eros leo in nunc. Donec a nulla vel turpis tempor ac vel justo. In hac platea nec eros. Nunc eu enim non turpis id augue.
-                                        </p>
-                                    </div>
-                                </div>
+ 
+ 
                             </div>
                         </div>
                     </div>
@@ -667,80 +204,11 @@
             <!-- Single Post End-->   
 
 
-            <!-- Footer Start -->
-            <div class="footer wow fadeIn" data-wow-delay="0.3s">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-6 col-lg-3">
-                            <div class="footer-contact">
-                                <h2>Office Contact</h2>
-                                <p><i class="fa fa-map-marker-alt"></i>123 Street, New York, USA</p>
-                                <p><i class="fa fa-phone-alt"></i>+012 345 67890</p>
-                                <p><i class="fa fa-envelope"></i>info@example.com</p>
-                                <div class="footer-social">
-                                    <a href=""><i class="fab fa-twitter"></i></a>
-                                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a href=""><i class="fab fa-youtube"></i></a>
-                                    <a href=""><i class="fab fa-instagram"></i></a>
-                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="footer-link">
-                                <h2>Services Areas</h2>
-                                <a href="">Building Construction</a>
-                                <a href="">House Renovation</a>
-                                <a href="">Architecture Design</a>
-                                <a href="">Interior Design</a>
-                                <a href="">Painting</a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="footer-link">
-                                <h2>Useful Pages</h2>
-                                <a href="">About Us</a>
-                                <a href="">Contact Us</a>
-                                <a href="">Our Team</a>
-                                <a href="">Projects</a>
-                                <a href="">Testimonial</a>
-                            </div>
-                        </div>
-                        <div class="col-md-6 col-lg-3">
-                            <div class="newsletter">
-                                <h2>Newsletter</h2>
-                                <p>
-                                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu
-                                </p>
-                                <div class="form">
-                                    <input class="form-control" placeholder="Email here">
-                                    <button class="btn">Submit</button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="container footer-menu">
-                    <div class="f-menu">
-                        <a href="">Terms of use</a>
-                        <a href="">Privacy policy</a>
-                        <a href="">Cookies</a>
-                        <a href="">Help</a>
-                        <a href="">FQAs</a>
-                    </div>
-                </div>
-                <div class="container copyright">
-                    <div class="row">
-                        <div class="col-md-6">
-                            <p>&copy; <a href="#">Your Site Name</a>, All Right Reserved.</p>
-                        </div>
-                        <div class="col-md-6">
-                            <p>Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <!-- Footer End -->
+       <?php 
+       
+       include("widgets/footer.php");
+       
+       ?>
 
             <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
         </div>

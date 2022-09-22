@@ -68,13 +68,9 @@
                             <a href="service.php" class="nav-item nav-link">Nos Services</a>
                             <!-- <a href="team.html" class="nav-item nav-link">Team</a> -->
                             <a href="portfolio.php"  class="nav-item nav-link">Nos réalisations</a>
-                            <div class="nav-item dropdown">
-                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Recrutement ICB</a>
-                                <div class="dropdown-menu">
-                                    <a href="blog.php" class="dropdown-item">Stage</a>
-                                    <a href="#"  class="dropdown-item">Contractuel</a>
-                                </div>
-                            </div>
+
+                            <a href="blog.php"  class="nav-item nav-link">Recrutement ICB</a>
+                           
                             <!-- <a href="contact.html" class="nav-item nav-link">Parlez à un Expert</a> -->
                         </div>
                         <div class="ml-auto">
