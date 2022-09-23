@@ -20,11 +20,12 @@
                         <div class="col-md-6 col-lg-3">
                             <div class="footer-link">
                                 <h2>Nos Services</h2>
-                                <a href="">Industrie</a>
-                                <a href="">Hydraulique</a>
-                                <a href="">La Formation technique</a>
-                                <a href="">La sécurité incendie</a>
-                                <a href="">L’Ingénierie-conseil</a>
+                                <a href="">Ingenierie Electrique</a>
+                                <a href="">Ingenierie Industrielle</a>
+                                <a href="">La Maitrise d'oeuvre</a>
+                                <a href="">Le contrôle technique</a>
+                                <a href="">Conseil en maintenance & sécurité incendie</a>
+                                <a href="">La Formation</a>
                             </div>
                         </div>
                         <div class="col-md-6 col-lg-3">

@@ -9,7 +9,7 @@
                                     <i class="flaticon-worker"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">109</h2>
+                                    <h2 data-toggle="counter-up">20</h2>
                                     <p>Technicien Qualifiés</p>
                                 </div>
                             </div>
@@ -18,7 +18,7 @@
                                     <i class="flaticon-building"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">485</h2>
+                                    <h2 data-toggle="counter-up">151</h2>
                                     <p>Clienst Satisfaits</p>
                                 </div>
                             </div>
@@ -31,7 +31,7 @@
                                     <i class="flaticon-address"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">789</h2>
+                                    <h2 data-toggle="counter-up">151</h2>
                                     <p>Projets Terminés</p>
                                 </div>
                             </div>
@@ -40,7 +40,7 @@
                                     <i class="flaticon-crane"></i>
                                 </div>
                                 <div class="fact-text">
-                                    <h2 data-toggle="counter-up">890</h2>
+                                    <h2 data-toggle="counter-up">5</h2>
                                     <p>Projets en Cours</p>
                                 </div>
                             </div>

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Builderz - Construction Company Website Template</title>
+    <title>ICB sarl : Notre entreprise</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Construction Company Website Template" name="keywords">
     <meta content="Construction Company Website Template" name="description">
@@ -55,8 +55,17 @@
                             La Société d’Ingénierie et de Contrôle du Burkina (I.C.B) est une Société à
                             Responsabilité
                             Limitée (SARL) de droit burkinabé au capital de 2 000 000 FCFA, créée en <strong>1996</strong> et dont le
-                            siège social est à Ouagadougou, en plein centre-ville. I.C.B Sarl est un <strong>cabinet d’ingénierie</strong> avec quatre principaux domaines d’intervention à savoir :<br /><strong style="font-size:60px;">.</strong> l’Ingénierie-conseil pour la maîtrise d’œuvre de nouveaux projets industriels ou pour
-                            réorganiser des unités existantes; <br><strong style="font-size:60px;">.</strong> le contrôle technique; <br><strong style="font-size:60px;">.</strong> le conseil en maintenance et sécurité incendie;<br><strong style="font-size:60px;">.</strong> l’expertise, et la formation.
+                            siège social est à Ouagadougou, en plein centre-ville. I.C.B Sarl est un <strong>cabinet d’ingénierie</strong> avec quatre principaux domaines d’intervention à savoir :
+
+                        <ul>
+                            <li>l’Ingénierie-conseil pour la maîtrise d’œuvre de nouveaux projets industriels ou pour
+                                réorganiser des unités existantes;</li>
+                            <li>le contrôle technique;</li>
+                            <li>le conseil en maintenance et sécurité incendie;</li>
+                        </ul>
+
+
+
                         </p>
                         <p>
                             La société I.C.B est aujourd’hui connue sur le plan national et sous régional pour son
@@ -65,9 +74,46 @@
                             <strong>L’Industrie</strong>, <strong>La sécurité incendie</strong>,<strong>Le Bâtiment et les Travaux publics</strong>,<strong>L’Hydraulique</strong>,<strong>Les biens de consommations</strong>,<strong>La formation technique</strong>
                         </p>
 
+
                     </div>
 
 
+                </div>
+            </div>
+<br>
+            <div class="row-align-items-center">
+
+                <div class="col-12">
+
+                    <p>
+                        ICB dispose d’un personnel permanant comprenant plusieurs cadres (Ingénieurs et techniciens
+                        multidisciplinaires) qui interviennent dans tous ses principaux domaines d’intervention :
+                        Le personnel permanent est composé de 16 employés dont:
+                    <ul><strong>06 Ingénieurs :</strong>
+                        <li>02 en Electromécanique,</li>
+                        <li>01 en génie civil,</li>
+                        <li>01 en Energies renouvelables et électricité,</li>
+                        <li>01 en Informatique et</li>
+                        <li>01 en hydraulique.</li>
+                    </ul>
+                    <ul><strong>06 Techniciens :</strong>
+                        <li>02 électromécaniciens,</li>
+                        <li>02 en génie civil et</li>
+                        <li>02 en électrotechnique.</li>
+                    </ul>
+                    <ul><strong>04 Agents :</strong>
+                        <li>02 secrétaires de direction,</li>
+                        <li>01 Responsable administratif et financier,</li>
+                        <li>01 responsable commercial.</li>
+                    </ul>
+
+
+                    </p>
+                    <p>
+                        Ce personnel permanent est appuyé par un réseau d’experts indépendants spécialisés dans divers
+                        domaines comme le transport électrique, les réseaux HTA/HTB/BT/Postes, l’environnement, la
+                        gestion, les finances et l’économie, la sociologie, la topographie.
+                    </p>
                 </div>
             </div>
         </div>

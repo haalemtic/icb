@@ -93,8 +93,8 @@
                                 <i class="flaticon-worker"></i>
                             </div>
                             <div class="feature-text">
-                                <h3>Technicien Qualifiés</h3>
-                                <p>Des Techniciens et des ingénieurs Qualifiés pour vos projets.</p>
+                                <h3>Techniciens Qualifiés</h3>
+                                <p>ICB dispose d’un personnel permanant comprenant plusieurs cadres, qui interviennent dans plusieurs domaines.</p>
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                             </div>
                             <div class="feature-text">
                                 <h3>Qualité de Travail</h3>
-                                <p>Tous est mis en oeuvre pour assurer une Qualité de service excellente.</p>
+                                <p>Notre travail est exécuté en tenant compte des normes ISO , certifiés par les experts locaux et internationaux.</p>
                             </div>
                         </div>
                     </div>
@@ -168,10 +168,10 @@
         ?>
 
 
-    <?php
-    include("widgets/services.php");
-    
-    ?>
+        <?php
+        include("widgets/services.php");
+
+        ?>
 
 
         <!-- Video Start -->
@@ -212,28 +212,28 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item">
                             <div class="team-img">
-                                <img src="img/team-1.jpg" alt="Team Image">
+                                <img src="img/avatar.jpg" alt="Team Image">
                             </div>
                             <div class="team-text">
-                                <h2>Nom & Prénoms</h2>
-                                <p>Poste occupé</p>
+                                <h2>TOE Moussa</h2>
+                                <p>Ingenierie Electrotechnique</p>
                             </div>
                             <div class="team-social">
                                 <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
                                 <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
                                 <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
-                                <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
+                                <a class="social-in" hrekf=""><i class="fab fa-instagram"></i></a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
                         <div class="team-item">
                             <div class="team-img">
-                                <img src="img/team-2.jpg" alt="Team Image">
+                                <img src="img/avatar.jpg" alt="Team Image">
                             </div>
                             <div class="team-text">
-                                <h2>Nom & Prénoms</h2>
-                                <p>Poste occupé</p>
+                                <h2>SANDWIDI Guillaume</h2>
+                                <p>Ingenieur Informaticien</p>
                             </div>
                             <div class="team-social">
                                 <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -246,11 +246,11 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item">
                             <div class="team-img">
-                                <img src="img/team-3.jpg" alt="Team Image">
+                                <img src="img/avatar.jpg" alt="Team Image">
                             </div>
                             <div class="team-text">
-                                <h2>Nom & Prénoms</h2>
-                                <p>Poste occupé</p>
+                                <h2>KANDIA Fayçal</h2>
+                                <p>Ingenieur Energie Renouvelable</p>
                             </div>
                             <div class="team-social">
                                 <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -263,11 +263,11 @@
                     <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                         <div class="team-item">
                             <div class="team-img">
-                                <img src="img/team-4.jpg" alt="Team Image">
+                                <img src="img/avatar.jpg" alt="Team Image">
                             </div>
                             <div class="team-text">
-                                <h2>Nom & Prénoms</h2>
-                                <p>Poste occupé</p>
+                                <h2>KY Thierry</h2>
+                                <p>Ingenieur Genie Civil</p>
                             </div>
                             <div class="team-social">
                                 <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
@@ -290,19 +290,22 @@
 
 
         <!-- Testimonial Start -->
+        <br><br>
+        <div class="section-header text-center">
+            <p>Partenariat ICB</p>
+            <h2>Nos partenaires</h2>
+        </div>
         <div class="testimonial wow fadeIn" data-wow-delay="0.1s">
             <div class="container">
+
                 <div class="row">
                     <div class="col-12">
                         <div class="testimonial-slider-nav">
-                            <div class="slider-nav"><img src="img/testimonial-1.jpg" alt="Testimonial"></div>
-                            <div class="slider-nav"><img src="img/testimonial-2.jpg" alt="Testimonial"></div>
-                            <div class="slider-nav"><img src="img/testimonial-3.jpg" alt="Testimonial"></div>
-                            <div class="slider-nav"><img src="img/testimonial-4.jpg" alt="Testimonial"></div>
-                            <div class="slider-nav"><img src="img/testimonial-1.jpg" alt="Testimonial"></div>
-                            <div class="slider-nav"><img src="img/testimonial-2.jpg" alt="Testimonial"></div>
-                            <div class="slider-nav"><img src="img/testimonial-3.jpg" alt="Testimonial"></div>
-                            <div class="slider-nav"><img src="img/testimonial-4.jpg" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-1.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-2.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-3.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-4.jpg" alt="Testimonial"></div>
+
                         </div>
                     </div>
                 </div>
@@ -310,25 +313,25 @@
                     <div class="col-12">
                         <div class="testimonial-slider">
                             <div class="slider-item">
-                                <h3>BCEAO</h3>
-                       
-                            </div>
-                            <div class="slider-item">
-                                <h3>Vivo Energy</h3>
-                                
-                          
-                            </div>
-                            <div class="slider-item">
                                 <h3>UEMOA</h3>
-                                
-                            
+
                             </div>
                             <div class="slider-item">
                                 <h3>SONABEL</h3>
-                                
-                              
+
+
                             </div>
-                            
+                            <div class="slider-item">
+                                <h3>Vivo Energy</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>BCEAO</h3>
+
+
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -337,10 +340,10 @@
         <!-- Testimonial End -->
 
 
-   <?php
-   
-   include("widgets/recrutement-block.php");
-   ?>
+        <?php
+
+        include("widgets/recrutement-block.php");
+        ?>
 
         <?php
         include("widgets/footer.php");

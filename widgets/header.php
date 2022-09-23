@@ -19,7 +19,7 @@
                                     </div>
                                     <div class="top-bar-text">
                                         <h3>Jours Ouvrables</h3>
-                                        <p>Lun - Ven, 8:00 - 18:00</p>
+                                        <p>Lun - Ven, 7:30 - 17:30</p>
                                     </div>
                                 </div>
                             </div>

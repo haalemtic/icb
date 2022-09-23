@@ -17,7 +17,7 @@
                                 </div>
                             </div>
                             <div class="service-text">
-                                <h3>Le Bâtiment et les Travaux publics</h3>
+                                <h3>L'Ingenierie Electrique</h3>
                                 <a class="btn" href="img/service-1.jpg" data-lightbox="service">+</a>
                             </div>
                         </div>
@@ -33,7 +33,7 @@
                                 </div>
                             </div>
                             <div class="service-text">
-                                <h3>Hydraulique</h3>
+                                <h3>L'Ingenierie Industrielle</h3>
                                 <a class="btn" href="img/service-2.jpg" data-lightbox="service">+</a>
                             </div>
                         </div>
@@ -53,7 +53,7 @@
                                 </div>
                             </div>
                             <div class="service-text">
-                                <h3>Industrie</h3>
+                                <h3>La maitrise d'oeuvre</h3>
                                 <a class="btn" href="img/service-3.jpg" data-lightbox="service">+</a>
                             </div>
                         </div>
@@ -72,7 +72,7 @@
                                 </div>
                             </div>
                             <div class="service-text">
-                                <h3>La formation technique</h3>
+                                <h3>Le contrôle technique</h3>
                                 <a class="btn" href="img/service-4.jpg" data-lightbox="service">+</a>
                             </div>
                         </div>
@@ -112,7 +112,7 @@
                                 </div>
                             </div>
                             <div class="service-text">
-                                <h3>le contrôle technique</h3>
+                                <h3>Formation</h3>
                                 <a class="btn" href="img/service-6.jpg" data-lightbox="service">+</a>
                             </div>
                         </div>

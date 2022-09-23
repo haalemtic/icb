@@ -23,12 +23,12 @@
                            <div class="card wow fadeInLeft" data-wow-delay="0.2s">
                                <div class="card-header">
                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseTwo">
-                                       Comment rentrer en contact avec ICB sarl ?
+                                       Comment bénéficier des services de ICB sarl ?
                                    </a>
                                </div>
                                <div id="collapseTwo" class="collapse" data-parent="#accordion-1">
                                    <div class="card-body">
-                                       Pour contacter ICB sarl il suffit de cliquer sur le bouton "Parler à un expert" tout en haut de la page pour nous envoyer un email ou nous appeler directement sur notre numéro.
+                                       Pour bénéficier des services de ICB sarl il suffit de cliquer sur le bouton <strong>"parler à un expert"</strong> tout en haut de la page pour nous <strong>envoyer un email</strong> ou nous <strong>appeler directement</strong> sur notre numéro <strong>+226 70 21 04 90</strong>.
                                    </div>
                                </div>
                            </div>
@@ -47,19 +47,19 @@
                                </div>
                                <div id="collapseSix" class="collapse" data-parent="#accordion-2">
                                    <div class="card-body">
-                                       Pour demander un stage à ICB sarl il suffit de nous envoyer un email avec pour sujet demande de stage en cliquant sur le bouton "parler à un expert"
+                                       Pour demander un stage à ICB sarl il suffit de nous envoyer un email avec pour sujet <strong>demande de stage</strong> en cliquant sur le bouton <strong>"parler à un expert"</strong>
                                    </div>
                                </div>
                            </div>
                            <div class="card wow fadeInRight" data-wow-delay="0.2s">
                                <div class="card-header">
                                    <a class="card-link collapsed" data-toggle="collapse" href="#collapseSeven">
-                                       Comment rester informer d'éventuel stage à ICB ?
+                                       Quelles sont les heures d'ouverture de ICB sarl ?
                                    </a>
                                </div>
                                <div id="collapseSeven" class="collapse" data-parent="#accordion-2">
                                    <div class="card-body">
-                                       Pour rester informer d'éventuel poste de recrutement ou de stage à ICB il suffit de s'inscrire à notre Newsletter en nous envoyant votre adresse email tout en bas de la page.
+                                 ICB sarl est ouvert du lundi au vendredi de 7h00 à 17h30.
                                    </div>
                                </div>
                            </div>
