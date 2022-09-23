@@ -44,7 +44,7 @@
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="img/carousel-1.jpg" alt="Carousel Image">
+                    <img src="img/caroussel-1.jpg" alt="Carousel Image">
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">Nous sommes les Professionnels</p>
                         <h1 class="animated fadeInLeft">Qu'il vous faut Pour vos Projets</h1>
@@ -53,7 +53,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/carousel-2.jpg" alt="Carousel Image">
+                    <img src="img/caroussel-2.jpg" alt="Carousel Image">
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">Des Ingenieurs Qualifiés</p>
                         <h1 class="animated fadeInLeft">La Meilleure Expertise sur le marché</h1>
@@ -62,7 +62,7 @@
                 </div>
 
                 <div class="carousel-item">
-                    <img src="img/carousel-3.jpg" alt="Carousel Image">
+                    <img src="img/caroussel-3.jpg" alt="Carousel Image">
                     <div class="carousel-caption">
                         <p class="animated fadeInRight">Depuis 1996 nous sommes avec vous</p>
                         <h1 class="animated fadeInLeft">26 Ans D'Expérience</h1>
