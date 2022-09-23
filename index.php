@@ -220,7 +220,7 @@
                             </div>
                             <div class="team-social">
                                 <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="social-fb" href="https://web.facebook.com/profile.php?id=100009487849613"><i class="fab fa-facebook-f"></i></a>
                                 <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
                                 <a class="social-in" hrekf=""><i class="fab fa-instagram"></i></a>
                             </div>
@@ -237,7 +237,7 @@
                             </div>
                             <div class="team-social">
                                 <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="social-fb" href="https://web.facebook.com/guillaume.sandwidi.5"><i class="fab fa-facebook-f"></i></a>
                                 <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
                                 <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
                             </div>
@@ -254,7 +254,7 @@
                             </div>
                             <div class="team-social">
                                 <a class="social-tw" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="social-fb" href=""><i class="fab fa-facebook-f"></i></a>
+                                <a class="social-fb" href="https://web.facebook.com/faicalminteli.kandia"><i class="fab fa-facebook-f"></i></a>
                                 <a class="social-li" href=""><i class="fab fa-linkedin-in"></i></a>
                                 <a class="social-in" href=""><i class="fab fa-instagram"></i></a>
                             </div>
