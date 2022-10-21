@@ -6,8 +6,8 @@
                             <div class="footer-contact">
                                 <h2>Informations</h2>
                                 <p><i class="fa fa-map-marker-alt"></i>Ouagadougou Centre-ville </p>
-                                <p><i class="fa fa-phone-alt"></i>+226 70 21 04 90 </p>
-                                <p><i class="fa fa-envelope"></i>info@example.com</p>
+                                <p><i class="fa fa-phone-alt"></i>+226 25 33 55 49</p>
+                                <p><i class="fa fa-envelope"></i>toe.honore@fasonet.bf</p>
                                 <div class="footer-social">
                                     <a href=""><i class="fab fa-twitter"></i></a>
                                     <a href=""><i class="fab fa-facebook-f"></i></a>

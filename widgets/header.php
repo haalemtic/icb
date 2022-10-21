@@ -30,7 +30,7 @@
                                     </div>
                                     <div class="top-bar-text">
                                         <h3>Appellez nous</h3>
-                                        <p>+226 70 21 04 90 </p>
+                                        <p>+226 25 33 55 49</p>
                                     </div>
                                 </div>
                             </div>
@@ -41,7 +41,7 @@
                                     </div>
                                     <div class="top-bar-text">
                                         <h3>Notre adresse email</h3>
-                                        <p>info@example.com</p>
+                                        <p>toe.honore@fasonet.bf</p>
                                     </div>
                                 </div>
                             </div>

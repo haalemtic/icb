@@ -305,6 +305,21 @@
                             <div class="slider-nav"><img src="img/partenaire-2.png" alt="Testimonial"></div>
                             <div class="slider-nav"><img src="img/partenaire-3.png" alt="Testimonial"></div>
                             <div class="slider-nav"><img src="img/partenaire-4.jpg" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-5.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-6.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-7.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-8.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-9.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-10.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-11.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-12.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-13.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-14.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-15.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-16.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-17.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-18.png" alt="Testimonial"></div>
+                            <div class="slider-nav"><img src="img/partenaire-19.jpg" alt="Testimonial"></div>
 
                         </div>
                     </div>
@@ -328,6 +343,82 @@
                             </div>
                             <div class="slider-item">
                                 <h3>BCEAO</h3>
+
+
+                            </div>
+
+                            <div class="slider-item">
+                                <h3>DAFANI</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>SOFITEX</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>La Maison De L'entreprise</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>Raynal</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>SDV-SNTB (Groupe Boloré)</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>Ministère de l'energie et des mines</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>Ministère des finances du Burkina</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>Bureau Veritas</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>Minoterie Du Sahel (MDS)</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>EXPERTISE FRANCE</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>LA CAMEG</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>SONAR</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>SANLAM-BF</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>BOAD</h3>
+
+
+                            </div>
+                            <div class="slider-item">
+                                <h3>SUNU</h3>
 
 
                             </div>
