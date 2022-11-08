@@ -70,7 +70,7 @@
                     </div>
                 </div>
             </div>
-
+k
             <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Retour</span>
@@ -428,7 +428,7 @@
                 </div>
             </div>
         </div>
-        <!-- Testimonial End -->
+        <!-- Tkestimonial End -->
 
 
         <?php

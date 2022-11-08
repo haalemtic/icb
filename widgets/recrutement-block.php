@@ -13,7 +13,7 @@
                          </div>
                          <div class="blog-title">
                              <h3>Stagiaire Genie Electrique</h3>
-                             <a class="btn" href="single.php">+</a>
+                             <a class="btn" href="contact.php">+</a>
                          </div>
                          <div class="blog-meta">
                              <p>Posté</p>
@@ -33,7 +33,7 @@
                          </div>
                          <div class="blog-title">
                              <h3>Chef de projet Industrielle</h3>
-                             <a class="btn" href="single.php">+</a>
+                             <a class="btn" href="contact.php">+</a>
                          </div>
                          <div class="blog-meta">
                              <p>Posté</p>
@@ -53,7 +53,7 @@
                          </div>
                          <div class="blog-title">
                              <h3>Prestataire developpeur web</h3>
-                             <a class="btn" href="single.php">+</a>
+                             <a class="btn" href="contact.php">+</a>
                          </div>
                          <div class="blog-meta">
                              <p>Posté</p>

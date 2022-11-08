@@ -75,7 +75,7 @@
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-1.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Etude et contrôle technique des travaux de
@@ -88,14 +88,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>SIBIRI BIO MEDICAL</h3>
-                                <a class="btn" href="img/portfolio-1.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.2s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-2.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Etude et contrôle technique des travaux de
@@ -107,14 +107,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>VIVO-ENERGY</h3>
-                                <a class="btn" href="img/portfolio-2.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.3s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-3.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Etude et contrôle technique des travaux de
@@ -126,14 +126,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>VIVO-ENERGY</h3>
-                                <a class="btn" href="img/portfolio-3.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.4s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-4.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Etude et contrôle technique des travaux
@@ -145,14 +145,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>Groupement TED/ACIT</h3>
-                                <a class="btn" href="img/portfolio-4.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-5.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Expertise par an d’au moins 05 sinistres
@@ -164,14 +164,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>SONAR</h3>
-                                <a class="btn" href="img/portfolio-5.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Expertise par an d’au moins 20 sinistres
@@ -182,14 +182,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>RAYNAL BURKINA ASSURANCES</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Expertise par an d’au moins 20 sinistres
@@ -201,14 +201,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>SUNU (ex-ALLIANZ BURKINA ASSURANCES)</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Expertise par an d’au moins 30 sinistres
@@ -221,14 +221,14 @@
                             <div class="portfolio-text">
                                 <h3>SANLAM (ex-SAHAM
                                     ASSURANCES BURKINA)</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Expertise chaque année d’au moins 40 sinistres
@@ -240,14 +240,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>SONABEL</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Audit électrique des 56 stations-services de la
@@ -258,14 +258,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>VIVO-ENERGY</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Expertise de l’incendie de l’usine WATAM
@@ -278,14 +278,14 @@
                                 <h3>Tribunal du Commerce de
                                     Ouagadougou
                                 </h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Expertise électrique et élaboration du CCTP de
@@ -296,14 +296,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>Burkina et Shell</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Supervision et contrôle des travaux
@@ -318,14 +318,14 @@
                             <div class="portfolio-text">
                                 <h3>Ministère des Mines, et de
                                     l’Energie du Burkina</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Audit des installations électriques de l’agence
@@ -337,14 +337,14 @@
                             </div>
                             <div class="portfolio-text">
                                 <h3>BCEAO</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Marché n°200/2020/DMP
@@ -367,14 +367,14 @@
                             <div class="portfolio-text">
                                 <h3>Projet PER-DN/WAPP–SONABEL
                                 </h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Etude du Lot 6 du projet d’études de
@@ -392,14 +392,14 @@
                                     l’Energie du Burkina.
                                     Pays : Burkina-Faso
                                     Budget de l’Etat</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Réalisation des études technico-économique et
@@ -416,14 +416,14 @@
                                     Pays : Burkina Faso
                                     Financement : EXIM Bank de
                                     l’Inde</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Mise en place d’un cadastre énergétique des
@@ -441,14 +441,14 @@
                                     Développement du secteur de
                                     l’Electricité (PDSE), et son unité
                                     d’exécution (UER).</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Actualisation des audits énergétiques et
@@ -465,14 +465,14 @@
                                     Carrières et de l’Energie, à
                                     travers le projet de
                                     Développement du secteur de</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         • Direction du trésor et de la
@@ -485,14 +485,14 @@
                             <div class="portfolio-text">
                                 <h3>l’Electricité (PDSE), et son unité
                                     d’exécution (UER)</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Mise en place du programme national de
@@ -510,14 +510,14 @@
                                     l’Electricité (PDSE), et son unité
                                     d’exécution (UER). C’est un
                                     projet de la Banque Mondiale</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Contrôle technique de la qualité des travaux
@@ -535,14 +535,14 @@
                                     Développement du secteur de
                                     l’Electricité (PDSE), et son unité
                                     d’exécution (UER).</h3>
-                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.6s">
                         <div class="portfolio-warp">
                             <div class="portfolio-img">
-                                <img src="img/portfolio-6.jpg" alt="Image">
+                                <img src="img/logo.jpg" alt="Image">
                                 <div class="portfolio-overlay">
                                     <p>
                                         Contrôle technique de la qualité des travaux
@@ -559,7 +559,7 @@
                                     Développement du secteur de
                                     l’Electricité (PDSE), et son unité
                                     d’exécution (UER).</h3>
-''                                <a class="btn" href="img/portfolio-6.jpg" data-lightbox="portfolio">+</a>
+''                                <a class="btn" href="img/logo.jpg" data-lightbox="portfolio">+</a>
                             </div>
                         </div>
                     </div>
