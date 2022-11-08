@@ -64,7 +64,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.4s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/service-section-4.jpg" alt="Image">
+                            <img src="img/service-section-8.jpg" alt="Image">
                             <div class="service-overlay">
                                 <p>
                                     Nous effectuons le contrôle technique de tous vos équipements et assurons une durée d'utilisation maximale de votre équipement pour un meilleur taux de rendement.
@@ -72,7 +72,7 @@
                         </div>
                         <div class="service-text">
                             <h3>Le contrôle technique</h3>
-                            <a class="btn" href="img/service-section-4.jpg" data-lightbox="service">+</a>
+                            <a class="btn" href="img/service-section-8.jpg" data-lightbox="service">+</a>
                         </div>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.6s">
                     <div class="service-item">
                         <div class="service-img">
-                            <img src="img/service-section-6.jpg" alt="Image">
+                            <img src="img/service-section-7.jpg" alt="Image">
                             <div class="service-overlay">
                                 <p>
                                     Nous formons dans le domaine de l'ingenierie electrique et industrielle
@@ -104,7 +104,7 @@
                         </div>
                         <div class="service-text">
                             <h3>Formation</h3>
-                            <a class="btn" href="img/service-section-6.jpg" data-lightbox="service">+</a>
+                            <a class="btn" href="img/service-section-7.jpg" data-lightbox="service">+</a>
                         </div>
                     </div>
                 </div>
