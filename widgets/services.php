@@ -12,8 +12,8 @@
                             <img src="img/service-section-1.jpg" alt="Image">
                             <div class="service-overlay">
                                 <p>
-                                    Nous sommes chargés de la mise en place, la maintenance et la surveillance des équipements et des installations électriques de votre entreprise.
-                                    Nous supervisons votre équipe de techniciens, nous anticipons les risques et prévoyons des solutions.Nous nous occupons également de l'organisation, de la relation client, du management, de la gestion d'un budget, des achats et des fournitures.
+                                    La mise en place, la maintenance et la surveillance des équipements et des installations électriques de votre entreprise.
+                                    Nous supervisons votre équipe de techniciens, nous anticipons les risques et prévoyons des solutions.
                                 </p>
                             </div>
                         </div>
@@ -46,12 +46,8 @@
                             <div class="service-overlay">
                                 <p>
                                     Nous étudions la faisabilité de votre projet ;
-                                    déterminons les spécificités du projet et adaptons le projet aux contraintes techniques et économiques ;
-                                    nous estimons le coût du projet et établissons un calendrier prévisionnel ;
-                                    nous rédigeons le dossier de consultation des entreprises ;
-                                    analysons les candidatures ;
-                                    nous effectuons un suivi régulier et rigoureux à chaque étape des travaux ;
-                                    vérifions la bonne exécution et la mise en conformité de l’ouvrage lors de la réception des travaux.
+                                    déterminons les spécificités du projet et adaptons le projet aux contraintes techniques et économiques.
+                                    
                                 </p>
                             </div>
                         </div>
